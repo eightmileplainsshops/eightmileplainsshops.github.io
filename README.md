@@ -1,2 +1,1 @@
-# eightmileplainsshops.github.io
-eightmileplains.com
+# eightmileplains.com
